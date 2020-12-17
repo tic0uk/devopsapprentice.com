@@ -45,6 +45,8 @@ include:
   - _includes
   - _layouts
   - _data
+  - _sass
+  - _authors
   - about.md
   - index.md
 # Exclude from processing.
