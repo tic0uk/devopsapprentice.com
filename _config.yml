@@ -38,7 +38,9 @@ linkedin: in/tim-craig2019/
 theme: jekyll-theme-leaf
 plugins:
   - jekyll-feed
-
+sass:
+  sass_dir: _sass
+  style: compressed
 include:
   - _headers
   - _redirects
