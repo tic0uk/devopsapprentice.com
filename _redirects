@@ -1,5 +1,5 @@
 # Redirects from what the browser requests to what we serve
-#https://elastic-bartik-df09ea.netlify.app https://blog.tic0uk.com
+https://elastic-bartik-df09ea.netlify.app/* https://blog.tic0uk.com/:splat 301!
 http://www.blog.tic0uk.com/* https://blog.tic0uk.com/:splat 301!
 https://www.blog.tic0uk.com/* https://blog.tic0uk.com/:splat 301!
 
