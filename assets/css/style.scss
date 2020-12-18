@@ -2,7 +2,7 @@
 ---
 /* GREEN THEME COLOUR GREEN 6CC040 ORANGE D68800 AND PANEL COLOUR CONTENT-COLOR 0D2323 */
 $theme-color: #D68800;
-$content-color: #0D2323;
+$content-color: #061d1b;
 $header-color: #0f0f0f;
 $content-width:    850px !default;
 @import "leaf";
@@ -18,7 +18,7 @@ background-image: none
 /* NO CURVED PANELS PLS */
 article, .comments, .box {
     border-radius: 0px;
-    margin: 10px 0;
+    margin: 18px 0;
     margin-bottom: 32px;
     @include media-query($on-mobile) {
         margin-left: 10px;
@@ -69,8 +69,8 @@ body {
 .introheader {
   margin-top: 30px;
   text-align: center;
-  font-size: 38px;
-  color: #6CC040;
+  font-size: 33px;
+  color: #55D33F;
 }
 
 .intro {
@@ -84,13 +84,13 @@ body {
 }
 
 .tagline {
-  margin-top: 14px;
+  margin-top: 22px;
   text-align: center;
   background: #021717;
   max-width: calc(850px - (30px * 2));
-  padding-right: 8px;
-  padding-left: 7px;
+  padding-right: 96px;
+  padding-left: 94px;
   color: white;
-  font-size: 27px;
+  font-size: 21px;
   width: 100%;
 }
