@@ -33,18 +33,35 @@ body {
   margin: 0;
 }
 
+.site-header {
+    padding-left: 0px;
+    border-bottom: 2px solid #39d401;
+}
+
+.site-nav input:checked ~ .trigger {
+    z-index: 10;
+    position: relative;
+}
+
 /* RED BANNER */
   .header2 {
-  position: static;
-  margin-top: 60px;
+  position: absolute;
+  margin-top: 83px;
   text-align: center;
   background: #890D0D;
   color: black;
-  font-size: 10px;
+  font-size: 4px;
   padding: 0px;
+  width:100%;
+  z-index: 6;
 }
 
 /* ENSURE RED BANNER DOESN'T MESS WITH THEME */
 .page-content {
-  margin-top: 0px;
+  margin-top: 68px;
+}
+
+.site-title {
+    padding-left: 24px;
+    z-index: 7;
 }
