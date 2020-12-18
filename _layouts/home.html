@@ -3,7 +3,14 @@ layout: default
 title: Home
 permalink: /
 ---
-<div class="posts">
+<div class="introheader">
+Welcome to DevOps Apprentice!
+</div>
+<div class="tagline">
+A site dedicated to bringing you articles and how-to guides about Linux,
+System Infrastructure and DevOps.
+</div>﻿
+  <div class="posts">
     {% for post in site.posts %}
         <article>
             <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
