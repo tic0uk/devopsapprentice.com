@@ -116,7 +116,7 @@ body {
   font-size: 21px;
   width: 100%;
   @include media-query($on-mobile) {
-          padding: 13px;
+          padding: 5px;
   }
 }
 
