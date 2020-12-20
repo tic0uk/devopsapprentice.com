@@ -19,6 +19,7 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.9"
   gem "jekyll-seo-tag", "~> 2.1"
   gem "bundler", "~> 2.2.1"
+  gem "jekyll-tagging", "~> 1.1.0"
   gem "rake", "~> 12.0"
 end
 gem "kramdown-parser-gfm"

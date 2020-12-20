@@ -38,6 +38,7 @@ google_analytics: G-DMWL3FGW7X
 theme: jekyll-theme-leaf
 plugins:
   - jekyll-feed
+  - jekyll/tagging
 sass:
   sass_dir: _sass
   style: compressed
@@ -49,6 +50,8 @@ include:
   - _data
   - _sass
   - _authors
+  - _pages
+  - _pictures
   - about.md
   - index.md
   - favicon.ico
