@@ -37,6 +37,7 @@ article, .comments, .box {
     border-radius: 0px;
 /*    color: #ccffff; */
     padding-top: 20px;
+    padding-bottom: 9px;
     margin: 9px 0;
     margin-bottom: 32px;
     @include media-query($on-mobile) {

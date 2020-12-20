@@ -1,0 +1,24 @@
+---
+layout: default
+permalink: /knowledgebase/
+title: Knowledge Base
+---
+<div>
+  <div class="introheader">
+Knowledge Base
+</div>
+<div class="tagline">
+Here you can find various articles, tips and how-to guides written about Linux,
+System Infrastructure and DevOps.
+</div>﻿
+
+<div class="posts">
+{% for post in site.categories.Articles %}
+<article>
+    <h3 style="color: #55D33F;"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    Published on {{ post.date | date_to_string }}
+    <br><br>
+    {{ post.excerpt }}
+</article>
+{% endfor %}
+</div>

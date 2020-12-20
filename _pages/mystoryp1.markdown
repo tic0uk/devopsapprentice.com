@@ -1,7 +1,8 @@
 ---
 layout: page
 permalink: /mystory/part1/
-published: false
+published: true
+categories: Personal
 ---
   <header class="post-header">
     <h3 class="post-title">Part 1 - How I got started in IT</h3>
