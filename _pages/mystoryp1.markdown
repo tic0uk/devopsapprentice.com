@@ -20,7 +20,7 @@ on, I found it was common that things wouldn't work correctly or sometimes didn'
 even run. As a result, I found that I was spending time debugging and fixing issues
 just to get things working. I discovered that I enjoyed this part more than some of my games!
 
-<img src="/_pictures/kq2-1.png" width="40%" alt="Kings Quest 2" class="leftimg" />
+<img src="/_pictures/kq2-1.png" alt="Kings Quest 2" class="leftimg" />
 
 Most of the games I played were adventure games, which meant a lot of repetitive typing
 as they expect you to type the exact phrase it understood. My spelling and typing skills began to soar from this and I was touch typing by the time I was 6 or 7. I
