@@ -34,5 +34,5 @@ PCs for recording and making music using Cubase. Computers remained one of my
 main hobbies for many years after leaving University.
 <br>
 <br>
-<div><a id="r" href="/mystory/part2">Continue to Part 2 >></a></div>
+<div><a id="l" href="/about"><< Return to About</a>&nbsp;<a id="r" href="/mystory/part2">Continue to Part 2 >></a></div>
 <br>
