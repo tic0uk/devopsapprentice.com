@@ -144,6 +144,7 @@ body {
   }
 
 .searchbar {
+  font-size: 18px;
   text-align: center;
   padding: 20px;
 }
@@ -174,4 +175,12 @@ body {
 ul, ol {
     margin-left: 30px;
     margin-top: 9px;
+}
+
+.searchbar input[type=text] {
+  float: centre;
+  padding: 6px;
+  border: none;
+  margin: 8px;
+  font-size: 18px;
 }

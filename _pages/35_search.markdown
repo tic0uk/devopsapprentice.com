@@ -3,7 +3,7 @@ layout: default
 permalink: /search/
 title: Search
 ---
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
 <div class="introheader">
 Site Search
 </div>
@@ -12,7 +12,7 @@ Site Search
 
 <!-- Html Elements for Search -->
 <div id="search-container" class="searchbar">
-<input type="text" id="search-input" placeholder="search...">
+<input type="text" id="search-input" placeholder="Search...">
 <ul id="results-container" class="searchbar"></ul>
 </div>
 
