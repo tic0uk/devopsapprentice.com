@@ -3,6 +3,7 @@ layout: default
 permalink: /search/
 title: Search
 ---
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <div class="introheader">
 Site Search
 </div>
