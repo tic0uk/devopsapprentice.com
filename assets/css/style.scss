@@ -159,15 +159,16 @@ body {
     padding-left: 30px;
     margin: 9px 0;
     margin-bottom: 18px;
+    font-size: 16px;
     background: $content-color;
-    margin-left: -70px;
-    margin-right: -38px;
+    margin-left: -40px;
+    margin-right: -41px;
     @include media-query($on-mobile) {
-        margin-top: 0px;
-        margin-left: -56px;
-        margin-right: -24px;
-        padding: 13px;
-        margin-bottom: 8px;
+      margin-top: 0px;
+      margin-left: -30px;
+      margin-right: -30px;
+      padding: 14px;
+      margin-bottom: 8px;
         background: $content-color;
     }
 }
