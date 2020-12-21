@@ -4,15 +4,15 @@ permalink: /search/
 title: Search
 ---
 <div class="introheader">
-Site Search<br><br>
+Site Search
 </div>
 
 
 
 <!-- Html Elements for Search -->
-<div id="search-container">
+<div id="search-container" class="searchbar">
 <input type="text" id="search-input" placeholder="search...">
-<ul id="results-container"></ul>
+<ul id="results-container" class="searchbar"></ul>
 </div>
 
 <!-- Script pointing to search-script.js -->

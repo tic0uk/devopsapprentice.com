@@ -8,7 +8,8 @@
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "category" : "{{post.categories | join: ', '}}",
       "tags"     : "{{ post.tags | join: ', ' }}",
-      "date"     : "{{ post.date }}",
+      "date"     : "{{ post.date | date_to_string }}",
+      "excerpt": " {{ post.excerpt | strip_html | strip_newlines | escape }}",
       "description" : "{{post.description | strip_html | strip_newlines | escape }}"
 
     } {% unless forloop.last %},{% endunless %}
