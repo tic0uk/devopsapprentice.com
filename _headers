@@ -3,5 +3,5 @@
  X-XSS-Protection: 1; mode=block
  Referrer-Policy: no-referrer
  X-Content-Type-Options: nosniff
- Content-Security-Policy: script-src 'self' google.com www.googletagmanager.com 'sha256-BkRoLyMtsPFWm5RIbnzU+ABud9OY+vQQkHlK4joNExA=' 'sha256-BkRoLyMtsPFWm5RIbnzU+ABud9OY+vQQkHlK4joNExA='; object-src 'none'; require-trusted-types-for 'script';
+ Content-Security-Policy: script-src 'self' google.com www.googletagmanager.com 'sha256-BkRoLyMtsPFWm5RIbnzU+ABud9OY+vQQkHlK4joNExA=' ; object-src 'none'; require-trusted-types-for 'script';
  Permissions-Policy: geolocation=(self "https://myblog.tic0uk.com"), microphone=()
