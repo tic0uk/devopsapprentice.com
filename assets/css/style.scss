@@ -163,8 +163,8 @@ body {
     margin-right: -38px;
     @include media-query($on-mobile) {
         margin-top: 0px;
-        margin-left: 10px;
-        margin-right: 10px;
+        margin-left: -56px;
+        margin-right: -24px;
         padding: 13px;
         margin-bottom: 8px;
         background: $content-color;
