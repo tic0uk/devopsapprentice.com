@@ -44,8 +44,8 @@ article, .comments, .box {
         margin-top: 0px;
         margin-left: 10px;
         margin-right: 10px;
-        padding: 13px;
         margin-bottom: 8px;
+        padding: 6px;
         background: $content-color;
     }
 }
@@ -116,7 +116,7 @@ body {
   font-size: 21px;
   width: 100%;
   @include media-query($on-mobile) {
-          padding: 0px;
+          padding: 18px;
   }
 }
 
