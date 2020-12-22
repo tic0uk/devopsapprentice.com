@@ -4,7 +4,7 @@ permalink: /mycertifications/
 published: true
 categories: Personal
 ---
-INCOMPLETE!
+INCOMPLETE
 
   <header class="post-header">
     <h3 class="post-title">My Certifications</h3>
