@@ -42,7 +42,7 @@ this list by u/IConrad</a>. I'm also using my homelab to learn Ansible and plan
 to learn to code in Python. Find out more over at <a href="/homelab/">Homelab
 Projects & Activities</a>    
 <br><br>
-If you want to know more about my back story, read more about me  <a href="/mystory/part1">how I got started in IT.</a> I've also created a blog, so if you're interested in my day-to-day
+If you want to know more about my back story, you can read more about  <a href="/mystory/part1">how I got started in IT.</a> I've also created a blog, so if you're interested in my day-to-day
 stuff, I'll be talking about various things going on in my labs
 (and also quite likely writing about how awesome my dog is).
 <br><br>
