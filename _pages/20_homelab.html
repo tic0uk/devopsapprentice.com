@@ -12,11 +12,11 @@ Below you can read about my progress in various projects and activities that I'v
 
 <div class="posts">
 <article>
-    <h3 style="color: #55D33F; text-align: center;"><a href="\homelabsetup"> >> My Homelab</a></h3>
+    <h3 style="color: #55D33F; text-align: center;"><a href="/myhomelab/"> >> My Homelab</a></h3>
     </article>
 
 <div class="posts">
-{% for post in site.categories.Articles %}
+{% for post in site.categories.Homelab %}
 <article>
     <h3 style="color: #55D33F;"><a href="{{ post.url }}">{{ post.title }}</a></h3>
     Published on {{ post.date | date_to_string }}

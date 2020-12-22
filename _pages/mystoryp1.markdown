@@ -4,6 +4,7 @@ permalink: /mystory/part1/
 published: true
 categories: Personal
 ---
+INCOMPLETE!
   <header class="post-header">
     <h3 class="post-title">Part 1 - How I got started in IT</h3>
   </header>
@@ -34,5 +35,5 @@ PCs for recording and making music using Cubase. Computers remained one of my
 main hobbies for many years after leaving University.
 <br>
 <br>
-<div><a id="l" href="/about"><< Return to About</a>&nbsp;<a id="r" href="/mystory/part2">Continue to Part 2 >></a></div>
+<div><a id="l" href="javascript:history.back()"><< Back to Previous Page </a>&nbsp;<a id="r" href="/mystory/part2">Continue to Part 2 >></a></div>
 <br>

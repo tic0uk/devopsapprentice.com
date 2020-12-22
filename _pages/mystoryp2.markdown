@@ -4,7 +4,7 @@ permalink: /mystory/part2/
 published: true
 categories: Personal
 ---
-
+INCOMPLETE!
 <div><a id="l" href="/mystory/part1"><< Return to Part 1</a>&nbsp;<a id="r" href="/mystory/part3">Continue to Part 3 >></a></div>
 
 <header class="post-header">
