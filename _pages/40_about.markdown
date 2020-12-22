@@ -31,7 +31,7 @@ I'd worked with Linux for some years before I began studying properly. Up until
 but as I progressed deeper into hands-on tech, I found there were all sorts of things
 that I didn't know about. I realised that if I wanted to step things up to the next
 level, it was time to begin putting in my own study out of work hours. If you want
-to find out more about the ones I've taken so far (along with my reasons
+to find out more about the ones that I've taken so far (along with my reasons
 for why I chose them), I've written a page about <a href="/mycertifications">my certifications.</a>
 <br><br>
 To get as much hands-on experience as possible, I've built a
@@ -48,7 +48,7 @@ stuff, I'll be talking about various things going on in my labs
 <br><br>
 I've added my social media links to the bottom of all pages if you want to connect
 outside of the site. If you have any feedback or questions, please <a href="mailto:info@devopsapprentice.com">send me an email</a>. I'll do my best to
-answer all questions and I'm very open to feedback on the site or it's content.
+answer all questions. I'm open to feedback on the site or it's content, and 
 I'm also welcome to offers from anyone who wants to help collaborate with the sites
 content.
 <br><br>
