@@ -48,7 +48,7 @@ stuff, I'll be talking about various things going on in my labs
 <br><br>
 I've added my social media links to the bottom of all pages if you want to connect
 outside of the site. If you have any feedback or questions, please <a href="mailto:info@devopsapprentice.com">send me an email</a>. I'll do my best to
-answer all questions. I'm open to feedback on the site or it's content, and 
+answer all questions and I'm always open to constructive feedback on the site or it's content. 
 I'm also welcome to offers from anyone who wants to help collaborate with the sites
 content.
 <br><br>
