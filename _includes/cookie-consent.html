@@ -7,7 +7,7 @@
     href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css"/>
 <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"
     data-cfasync="false"></script>
-    
+
 <!-- Add google analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-9N6VQ00CCF"></script>
 
@@ -28,8 +28,9 @@
         }
 
         gtag('js', new Date());
-        gtag('config', 'G-9N6VQ00CCF');
-    }
+        gtag('config', 'G-9N6VQ00CCF', {
+  cookie_flags: 'max-age=7200;secure;samesite=none'
+});
 
     // Waiting for the load event
     window.addEventListener("load", function () {
