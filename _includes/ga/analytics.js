@@ -14,6 +14,6 @@ loadScriptAsync('https://www.googletagmanager.com/gtag/js?id=G-DMWL3FGW7X', func
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-    gtag('set', {cookie_flags: 'SameSite=None;Secure'});
-    gtag('config', 'G-DMWL3FGW7X');
-  })
+    gtag('config', 'G-DMWL3FGW7X'{
+  cookie_flags: 'max-age=7200;secure;samesite=none'});
+})
