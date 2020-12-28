@@ -40,7 +40,7 @@
         document.getElementById('cookie-notice').style.display = 'block';
     }
     document.getElementById('cookie-notice-accept').addEventListener("click",function() {
-        createCookie('cookie-notice-dismissed','true',{'max-age=7200;secure;samesite=none'},31);
+        createCookie('cookie-notice-dismissed','true','max-age=7200;secure;samesite=none',31);
         document.getElementById('cookie-notice').style.display = 'none';
         location.reload();
     });
