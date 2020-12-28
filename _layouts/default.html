@@ -17,3 +17,8 @@
 </body>
 
 </html>
+{%- if jekyll.environment == 'production' and site.google_analytics -%}
+{% include cookie-consent.html %}
+{%- endif -%}
+</body>
+</html>
