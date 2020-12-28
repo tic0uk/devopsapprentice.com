@@ -10,10 +10,10 @@ function loadScriptAsync(scriptSrc, callback) {
 }
 
 /* This is the part where you call the above defined function and "call back" your code which gets executed after the script has loaded */
-loadScriptAsync('https://www.googletagmanager.com/gtag/js?id=G-DMWL3FGW7X', function(){
+loadScriptAsync('https://www.googletagmanager.com/gtag/js?id=G-9N6VQ00CCF', function(){
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-    gtag('config', 'G-DMWL3FGW7X',{
-  cookie_flags: 'max-age=7200;secure;samesite=none'});
+    gtag('config', 'G-9N6VQ00CCF',{
+    cookie_flags: 'max-age=7200;secure;samesite=none'});
 })
