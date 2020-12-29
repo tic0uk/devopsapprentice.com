@@ -2,7 +2,7 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
 {%- include head.html -%}
-
+    {%- include cookie-consent.html -%}
 <body>
 
     {%- include header.html -%}
@@ -24,6 +24,6 @@
 
 <div class="page__footer">
   <footer>
-    {%- include cookie-consent.html -%}
+
   </footer>
 </div>
