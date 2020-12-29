@@ -30,7 +30,7 @@ here</a>
 
 
   I began using Linux Academy
-(who are now partners with <a href="https://go.acloud.guru">A Cloud Guru</a>)
+(who are now partnered with <a href="https://go.acloud.guru">A Cloud Guru</a>)
 to study some topics. After a month, I began to eye up the IT certifications
 training they offered, and completed the AWS Cloud Practitioner training. I
 was pleased, but it felt a bit pointless unless I took the real exam. I signed
