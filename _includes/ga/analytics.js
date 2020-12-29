@@ -14,5 +14,8 @@ loadScriptAsync('https://www.googletagmanager.com/gtag/js?id=G-9N6VQ00CCF', func
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-    gtag('config', 'G-9N6VQ00CCF');
+    gtag('config', 'G-9N6VQ00CCF', {
+    'anonymize_ip': true,
+    cookie_flags: 'max-age=7200;secure;samesite=none'
+   });
 })
