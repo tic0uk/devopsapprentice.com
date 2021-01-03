@@ -1,0 +1,32 @@
+---
+layout: page
+title:  "Part 4 - How I got started in IT"
+permalink: /mystory/part4/
+published: true
+categories: Blog
+tags: IT,mystory,Linux,Windows,homelab,childhood,kineo,Tim,Craig,engineer,application,developer,coding,sysadmin,systems,administrator,qualifications,certifications,aberystwyth,university,study,music,xp-30,cubase,sx3,ms-dos,prince,persia,sierra,online,on-line,ibm,adventure,games,soundblaster,creative,sord,m5,birmingham,english,degree,basic,gcse,recording,writing,monitors,four,three,senior,client,services,manager,architect,developers,technical,ubuntu,php,apache,mysql,postgresql,postgres,server,dual boot,comptia,security+,network+,aws,azure
+---
+Through my work, I regularly hung out with developers and sysadmins and I began to aspire to build the combined skill set of a developer, an application engineer and a sysadmin. I completed an introductory course in PHP and began to read all code fixes that passed my desk. I took any chance I had to work on problems with the sysadmins and developers. As a result, I found myself developing a more well-rounded approach to systems, applications and clients.
+
+After 3 years of working as a senior engineer, a vacancy came up within the infrastructure team, and so I put in an application to become a sysadmin. I put in a lot of study prior to the interview process and worked really hard to make sure I was ready for the interviews and technical test. After several weeks of interviewing, I was delighted to find that I'd got the job and I officially became a sysadmin. I was really proud to have gotten the job and felt my hard work had paid off.
+
+<a href="/_pictures/sysadmin.jpg">
+<img src="/_pictures/sysadmin.jpg" alt="three monitor set up" class="leftimg" /></a>
+As a sysadmin, I handled everything from support issues through to the building and setting up servers. I learnt AWS, Azure and other hosting providers control panels and learnt how to install, configure and optimise the full stack. As Kineo was a Linux house, this meant a heavy focus on Ubuntu, PHP, Apache, MySQL, and Postgres but we also ran some Windows Server boxes. I was able to draw on a lot on my work as an engineer which helped a lot. I also switched to using 3 monitors instead of 4.
+
+Shortly after the picture above, I stopped using Windows as my main OS on both my work and home machine and began to live out of Linux. Whilst I still dual boot a copy of Windows at home (as I still use it for gaming and when I need to be sure a document will come out as planned), it's mostly gathering dust at the moment.
+
+<a href="https://comptia.org/" target="_blank">
+<img src="/_pictures/securityplus-badge.png" alt="Comptia Security+ badge" class="rightimg" /></a>
+I decided in early 2020 that I wanted to earn some qualifications in IT. I realised that I had been struggling to find time to study at work, so I self-funded a series of exams and studied almost daily outside of work. I improved dramatically from the extra practice and study without any distractions from work. If you want to find out more about the ones that I've taken so far, I've written a page about <a href="/mycertifications">my certifications.</a>
+<br>
+<br>
+Having worked at Kineo for 7 years, I began to look for a new challenge and began to apply for new jobs. I was successful and began working as a Technical Engineer for a Hosting Company specialising in VMWare vSphere and ESXi. It was a great move to work for a new company as it unveiled even more new areas that I wanted to learn about. I made a lot of nice friends there but I realised that this wasn't the right place for me and so made the decision to leave and began looking for another job. I'm positive about things and as well as looking for the right job, I'm spending most of my day studying and working in my homelab. I've also taken the opportunity to set up this website, and my own mail server. I've found this a fun project to call on some of the skills I've learnt over the years.
+
+My social links are below if you want to get in touch on Twitter, Linkedin, or see my Github page.
+
+Thanks for reading,<br>
+Tim
+
+<div><a id="l" href="/mystory/part3"><< Back to Part 3</a>&nbsp;</div>
+<br>
