@@ -2,6 +2,7 @@
 layout: page
 permalink: /mycertifications/
 title:  "IT Certifications"
+image: /_pictures/AWS-CloudPractitioner-2020.png
 published: true
 categories: Blog
 ---

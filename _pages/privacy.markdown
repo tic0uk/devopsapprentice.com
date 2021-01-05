@@ -2,6 +2,7 @@
 layout: page
 permalink: /privacy/
 published: true
+tags: privacy,policy,google,analytics,cookies,https,cloudflare
 ---
 
 <p><h1>Privacy Policy</h1></p>
