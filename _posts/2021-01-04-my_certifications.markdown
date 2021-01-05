@@ -13,10 +13,10 @@ I've chosen to just cover certifications that I've taken below, however, I've al
 
 <h4>Amazon Web Services (AWS) Cloud Practitioner</h4>
 
-When I first began studying, I didn't intend to take any certifications. I signed up to Linux Academy (who are now partnered with <a href="https://go.acloud.guru">A Cloud Guru</a>) as they offered a variety of both short and long courses and also had sandbox sites and servers which seemed very useful. After a month of doing various smaller courses, I began their course for the <a href="https://aws.amazon.com/training/course-descriptions/cloud-practitioner-essentials/" target="_blank">AWS Certified Cloud Practitioner</a> to see how I got on with studying for an official certification.
-
 <a href="https://www.youracclaim.com/badges/86647c0e-abbe-4dbc-84b5-50f10cdd6c6d/public_url" target="_blank">
-<img src="/_pictures/AWS-CloudPractitioner-2020.png" alt="AWS Certified Cloud Practitioner Badge" class="leftimg" /></a> Linux Academy offered two versions which both had similar content, however, one was intended for hands-on users and the other course was aimed at users who wanted to be able to speak the language. They explained that the actual exam set by Amazon would be the latter, however, they wanted to offer the chance for a head-start for more technical users. I went for the technical version as this sounded like what I was looking for.
+<img src="/_pictures/AWS-CloudPractitioner-2020.png" alt="AWS Certified Cloud Practitioner Badge" class="leftimg" /></a> When I first began studying, I didn't intend to take any certifications. I signed up to Linux Academy (who are now partnered with <a href="https://go.acloud.guru">A Cloud Guru</a>) as they offered a variety of both short and long courses and also had sandbox sites and servers which seemed very useful. After a month of doing various smaller courses, I began their course for the <a href="https://aws.amazon.com/training/course-descriptions/cloud-practitioner-essentials/" target="_blank">AWS Certified Cloud Practitioner</a> to see how I got on with studying for an official certification.
+
+Linux Academy offered two versions which both had similar content, however, one was intended for hands-on users and the other course was aimed at users who wanted to be able to speak the language. They explained that the actual exam set by Amazon would be the latter, however, they wanted to offer the chance for a head-start for more technical users. I went for the technical version as this sounded like what I was looking for.
 
 The Linux Academy course was fantastic and I learnt everything from building servers using AWS, load balancing, setting up subnets and access control lists. I also learnt the non-technical material during the course, so I felt well prepared for the exam. After 3 weeks of study and using their labs, I took their mock exam with no problems, so I felt ready to take the official exam with AWS. I signed up to take the official exam several days later online via Pearson Vue's web proctoring service.
 
@@ -64,9 +64,9 @@ There were some really interesting parts in the course and I learnt a lot about 
 
 <a href="/_pictures/threemonitorsetup.jpg" target="_blank">
 <img src="/_pictures/threemonitorsetup.jpg" alt="three monitor home set up" class="leftimg" /></a>After taking four exams in four months, I was all set to continue on the same path but I felt like I wanted to start doing more things in my homelab. To get as much hands-on experience as possible, I built a <a href="/myhomelab/">homelab</a> where I began spending a lot of my spare time. I'm currently working to complete <a href="https://www.reddit.com/r/linuxadmin/comments/2s924h/how_did_you_get_your_start/cnnw1ma/?utm_content=permalink&utm_medium=user&utm_source=reddit&utm_name=frontpage">
-this list by u/IConrad</a>. I'm also using my homelab to learn Ansible and plan to learn to code in Python.
+this list by u/IConrad</a>. I'm also using my homelab to learn Ansible and plan to learn to code in Python. I've also created this website which has taken quite a bit of time to put together and theme but should be less maintenance now that everythings built.
 
-I'm certain that I'll go on to take more certifications but I'm learning so much (and having a lot of fun) in my homelab that I don't want to break my streak! If you want to find out more about what I'm up to you can read more over at  <a href="/homelab/">Homelab Projects & Activities</a>  
+I'm certain that I'll go on to take more certifications but I'm learning so much (and having a lot of fun) in my homelab that I don't want to break my streak! If you want to find out more about what I'm up to recently, you can read more over at  <a href="/homelab/">Homelab Projects & Activities</a>  
 
 I'll update this page when I've started some more certifications!  
 

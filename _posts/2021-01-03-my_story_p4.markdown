@@ -18,13 +18,13 @@ Shortly after the picture above, I stopped using Windows as my main OS on both m
 
 <a href="https://comptia.org/" target="_blank">
 <img src="/_pictures/securityplus-badge.png" alt="Comptia Security+ badge" class="rightimg" /></a>
-I decided in early 2020 that I wanted to earn some qualifications in IT. I realised that I had been struggling to find time to study at work, so I self-funded a series of exams and studied almost daily outside of work. I improved dramatically from the extra practice and study without any distractions from work. If you want to find out more about the ones that I've taken so far, I've written a page about <a href="/mycertifications">my certifications.</a>
+I decided in early 2020 that I wanted to earn some qualifications in IT. I realised that I had been struggling to find time to study at work, and so I began to study at home. After taking several small courses, I began to self-fund a series of exams and passed them all. By the end I was studying almost daily outside of work. I improved dramatically from the extra practice and study without any distractions from work. If you want to find out more about the ones that I've taken so far, I've written a page about <a href="/mycertifications">my certifications</a>.
 
 Having worked at the same place for 7 years, I began to look for a new challenge and began to apply for new jobs. I left Kineo and began working as a Technical Engineer for a Hosting Company specialising in VMWare vSphere and ESXi. It was a great move to work for a new company as it unveiled even more new areas that I wanted to learn about and I made a lot of nice friends there. I realised that this wasn't quite the right place for me and so made the decision to leave a few weeks ago.
 
 <a href="/_pictures/threemonitorsetup.jpg" target="_blank">
 <img src="/_pictures/threemonitorsetup.jpg" alt="three monitor home set up" class="leftimg" /></a>
-It's been great taking a few weeks out to regroup. As well as looking for the right new job, I'm also spending most of my day studying and working in my homelab. I've also taken the opportunity to set up this website, my own mail server and a variety of other things. It's been nice using some of the newer skills I've learnt over the years to do my own things.
+It's been great taking a few weeks out to regroup. As well as looking for the right new job, I'm also spending most of my day studying and working in my homelab. I've also taken the opportunity to set up this website, my own mail server and a variety of other things. It's been nice using some of the skills I've learnt over the years to do my own thing. Once the site is up, I plan to help write about the various things that I'm learning. I've always made notes, so I came up with the idea to have them on display and help other people learning.   
 
 That about wraps things up to date! If you want to get in touch, my social links are below for Email, Twitter, Linkedin, or see my Github page.
 
