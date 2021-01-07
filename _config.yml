@@ -21,9 +21,7 @@
 title: DevOps Apprentice
 email: noreply@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  "An ever-growing site for all apprentices in Linux, System Infrastructure and
-  DevOps. Specialised in learning and teaching new web apps, cli tools with a
-  focus on using Linux (Ubuntu, CentOS and others) to get the job done"
+  "An ever-growing site for all apprentices in Linux, System Infrastructure and DevOps"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://devopsapprentice.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: devops_a

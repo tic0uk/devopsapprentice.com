@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title:  "Part 2 - How I got started in IT"
 permalink: /mystory/part2/
 image: /_pictures/geograph-1166311-by-John-Lucas.jpg

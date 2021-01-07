@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title:  "Part 1 - How I got started in IT"
 permalink: /mystory/part1/
 published: true

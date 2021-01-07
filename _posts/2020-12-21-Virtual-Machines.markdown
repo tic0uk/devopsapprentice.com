@@ -3,7 +3,7 @@ layout: post
 title:  "Virtual Machines"
 date:   2020-12-16 13:27:19 +0000
 categories: Homelab
-published: true
+published: false
 image: /_pictures/virsh.png
 tags: Virtualisation, Hyper-V, Virtualbox, Linux, Windows, homelab
 ---
