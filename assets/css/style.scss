@@ -107,19 +107,35 @@ homepage, .comments, .box {
     margin-bottom: 32px;
     background: #062634;
     display:block;
+      h1, h2, h3, h4, h5, h6 {
+        color: #D68800;
+      }
     @include media-query($on-mobile) {
         margin-top: 0px;
         margin-left: 10px;
         margin-right: 10px;
-        margin-bottom: 35px;
+        margin-bottom: 16px;
         padding: 15px;
-        padding-top: 0px;
         background: #062634;
           h1, h2, h3, h4, h5, h6 {
-            margin: -9px;
-            padding: 10px;
+            margin: -16px;
+            padding: 22px;
+            color: #D68800;
         }
     }
+}
+
+.post-meta p {
+  color:black;
+}
+
+.post-content ul, ol {
+        margin-left: 50px;
+        margin-top: 9px;
+        li {
+        margin-bottom:5px;
+        padding-left: 10px;
+      }
 }
 
 
@@ -204,6 +220,7 @@ body {
   @include media-query($on-mobile) {
           padding-left: 18px;
           padding-right: 18px;
+          margin-bottom: 0px;
         }
 }
 
@@ -215,6 +232,38 @@ body {
 #r {
   float: right;
   }
+
+.blogheader {
+  display: block;
+  background-color: #0f0f0f;
+  padding-left: 30px;
+  padding-top: 11px;
+  margin-top: -21px;
+  padding-right: 30px;
+  padding-bottom: 17px;
+}
+
+.introheader2 {
+    margin-top: 16px;
+    text-align: center;
+    font-size: 33px;
+    color: #55D33F;
+    padding-bottom: 8px;
+    @include media-query($on-mobile) {
+  }
+}
+
+
+
+#blogheaderleft {
+    float: left;
+    font-size: 15px
+    }
+
+#blogheaderright {
+    float: right;
+    font-size: 15px
+    }
 
 .leftimg {
   float: left;

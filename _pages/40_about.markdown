@@ -11,11 +11,9 @@ Thanks for visiting <a href="/">DevOpsApprentice.com!</a>
 </div>﻿
 <article class="post">
   <div class="post-content">
-Hello,
+Hello, and welcome to my site.
 <br><br>
-Welcome to my site! My name's Tim, and I live in Brighton in the United Kingdom.
-<br><br>
-I created this site because I wanted to help give something back to the on-line community that's helped me reach so many of my IT goals. I hope that it helps you with something in the way that so many other sites have helped me.  
+My name's Tim, and I live in Brighton in the United Kingdom. I created this site because I wanted to help give something back to the on-line community that's helped me reach so many of my IT goals. I hope that it helps you with something in the way that so many other sites have helped me.  
 <br><br>
 I've worked as an Engineer and Sysadmin for a combined 7 years in the UK, and I'm now self-studying to build up my skills to the next level. My long-term goal is to have a successful career as a DevOps Engineer, and so I'm learning in-depth about methodologies, tools and automation associated with the practice of DevOps.
 <br><br>

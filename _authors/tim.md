@@ -1,6 +1,6 @@
 ---
 short_name: tim
-name: Tim Craig
+name: Tim Craig 
 position: Technical Engineer
 ---
 Example

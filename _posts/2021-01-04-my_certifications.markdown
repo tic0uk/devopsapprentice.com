@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: post
 permalink: /mycertifications/
 title:  "IT Certifications"
 image: /_pictures/AWS-CloudPractitioner-2020.png
 published: true
 categories: Blog
+tags: AWS,amazon,web,services,comptia,cysa+,network+,security+,linux,acclaim,learning,devops,badge,mike,meyers,jason,dion,academy,acloudguru,study,homelab,revising,IT,qualifications,certifications,cloud,practioner,certified,networking,cyber,cybersecurity,security,networking,osi,layer 3,technical,exams,examinations,qualified,ansible,course,sandbox,pearson,vue
 ---
 I'd worked with Linux for around 6 years before I began studying in my spare time. Up until 2020 most of my learning was done on the job. Actual experience is hands-down the best way to learn, but as I progressed deeper into tech, I wanted to know more and more. As I progressed further, I found that there wasn't enough time at work to study things in-depth.
 
@@ -64,7 +65,7 @@ There were some really interesting parts in the course and I learnt a lot about 
 <h4>What's next?</h4>
 
 <a href="/_pictures/threemonitorsetup.jpg" target="_blank">
-<img src="/_pictures/threemonitorsetup.jpg" alt="three monitor home set up" class="leftimg" /></a>After taking four exams in four months, I was all set to continue on the same path but I felt like I wanted to start doing more things in my homelab. To get as much hands-on experience as possible, I built a <a href="/myhomelab/">homelab</a> where I began spending a lot of my spare time. I'm currently working to complete <a href="https://www.reddit.com/r/linuxadmin/comments/2s924h/how_did_you_get_your_start/cnnw1ma/?utm_content=permalink&utm_medium=user&utm_source=reddit&utm_name=frontpage">
+<img src="/_pictures/threemonitorsetup.jpg" alt="three monitor home set up" class="leftimg" /></a>After taking four exams in four months, I was all set to continue on the same path but I felt like I wanted to start doing more things in my homelab. To get as much hands-on experience as possible, I built a <a href="/myhomelab/">homelab</a> where I began spending a lot of my spare time. I'm currently working to complete <a href="https://www.reddit.com/r/linuxadmin/comments/2s924h/how_did_you_get_your_start/cnnw1ma/?utm_content=permalink&utm_medium=user&utm_source=reddit&utm_name=frontpage" target="_blank">
 this list by u/IConrad</a>. I'm also using my homelab to learn Ansible and plan to learn to code in Python. I've also created this website which has taken quite a bit of time to put together and theme but should be less maintenance now that everythings built.
 
 I'm certain that I'll go on to take more certifications but I'm learning so much (and having a lot of fun) in my homelab that I don't want to break my streak! If you want to find out more about what I'm up to recently, you can read more over at  <a href="/homelab/">Homelab Projects & Activities</a>  

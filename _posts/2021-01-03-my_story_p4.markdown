@@ -1,17 +1,18 @@
 ---
-layout: page
+layout: post
 title:  "Part 4 - How I got started in IT"
 permalink: /mystory/part4/
 published: true
 categories: Blog
 image: /_pictures/sysadmin.jpg
+modified_date: 2020-01-3
 tags: IT,mystory,Linux,Windows,homelab,childhood,kineo,Tim,Craig,engineer,application,developer,coding,sysadmin,systems,administrator,qualifications,certifications,aberystwyth,university,study,music,xp-30,cubase,sx3,ms-dos,prince,persia,sierra,online,on-line,ibm,adventure,games,soundblaster,creative,sord,m5,birmingham,english,degree,basic,gcse,recording,writing,monitors,four,three,senior,client,services,manager,architect,developers,technical,ubuntu,php,apache,mysql,postgresql,postgres,server,dual boot,comptia,security+,network+,aws,azure
 ---
 Through my work as a senior application engineer, I regularly met up with developers and sysadmins and I began to aspire to build the combined skill set of a developer, an application engineer and a sysadmin. I completed an introductory course in PHP and began to read all code fixes that passed my desk. I took any chance I had to work on problems with the sysadmins and developers. As a result, I found myself developing a more well-rounded approach to systems, applications and clients.
 
 After 3 years of working as a senior engineer, a vacancy came up within the infrastructure team, and so I put in an application to become a sysadmin. I put in a lot of study prior to the interview process and worked really hard to make sure I was ready for the interviews and technical test. After several weeks of interviewing, I was delighted to find that I'd got the job and I officially became a sysadmin. I was really proud to have gotten the job and felt my hard work had paid off.
 
-<a href="/_pictures/sysadmin.jpg">
+<a href="/_pictures/sysadmin.jpg" target="_blank">
 <img src="/_pictures/sysadmin.jpg" alt="three monitor set up" class="leftimg" /></a>
 As a sysadmin, I handled everything from support issues through to the building and setting up servers. I learnt AWS, Azure and other hosting providers control panels and learnt how to install, configure and optimise the full stack. As Kineo was a Linux house, this meant a heavy focus on Ubuntu, PHP, Apache, MySQL, and Postgres but we also ran some Windows Server boxes. I was able to draw on a lot on my work as an engineer which helped a lot. I also switched to using 3 monitors instead of 4 which still remains my favoured set up.
 
@@ -29,7 +30,7 @@ It's been great taking a few weeks out to regroup. As well as looking for the ri
 
 That about wraps things up to date! If you want to get in touch, my social links are below for Email, Twitter, Linkedin, or see my Github page.
 
-Thanks for ready,<br>
+Thanks for reading,<br>
 Tim
 
 <div><a id="l" href="/mystory/part3"><< Back to Part 3</a>&nbsp;</div>
