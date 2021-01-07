@@ -2,7 +2,7 @@
 layout: post
 permalink: /mycertifications/
 title:  "IT Certifications"
-image: /_pictures/AWS-CloudPractitioner-2020.png
+image: /_pictures/securityplus-badge.png
 published: true
 categories: Blog
 tags: [AWS,amazon,web,services,comptia,cysa+,network+,security+,linux,acclaim,learning,devops,badge,mike,meyers,jason,dion,academy,acloudguru,study,homelab,revising,IT,qualifications,certifications,cloud,practioner,certified,networking,cyber,cybersecurity,security,networking,osi,layer 3,technical,exams,examinations,qualified,ansible,course,sandbox,pearson,vue]
