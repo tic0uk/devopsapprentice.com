@@ -19,7 +19,7 @@ Site Search
 </div>
 
 <!-- Script pointing to search-script.js -->
-<script src="/js/script.js" type="text/javascript"></script>
+<script src="/js/script.js"></script>
 
 <!-- Configuration -->
 <script>

@@ -9,18 +9,20 @@ layout: default
       {%- assign mdate = page.modified_date | date_to_xmlschema -%}
       <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
         <div><p id="blogheaderleft">Written by <a href="/about/">Tim Craig</a></p>&nbsp;<p id="blogheaderright">Last Updated on {{ mdate | date: date_format }}<hr></p>
-            <div class="introheader2">
-                {{ page.title | escape }}<hr>
-            </div>
-          </div>
+              <div class="introheader2">
+                  {{ page.title | escape }}<hr>
+              </div>
+        </div>
       </time>
     {%- else -%}
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-  <div><p id="">Written by <a href="/about/">Tim Craig</a> on {{ page.date | date: date_format }}<hr>
-            <div class="introheader2">
-                {{ page.title | escape }}<hr>
-            </div>
-          </div>
+
+  <div>
+    <p id="">Written by <a href="/about/">Tim Craig</a> on {{ page.date | date: date_format }}<hr>
+              <div class="introheader2">
+                  {{ page.title | escape }}<hr>
+              </div>
+  </div>
       </time>
     {%- endif -%}
     {%- if page.author -%}
