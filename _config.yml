@@ -37,6 +37,7 @@ theme: jekyll-theme-leaf
 plugins:
   - jekyll-feed
   - jekyll/tagging
+  - jekyll-sitemap
 sass:
   sass_dir: _sass
   style: compressed
