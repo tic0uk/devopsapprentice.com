@@ -2,7 +2,8 @@
 layout: default
 permalink: /search/
 title: Search
-description: Search all articles and posts on devopsapprentice.com 
+description: Search all articles and posts on devopsapprentice.com
+image: /_pictures/threemonitorsetup.jpg
 ---
 
 <div class="introheader">
