@@ -7,21 +7,21 @@ layout: default
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- if page.modified_date -%}
         {%- assign mdate = page.modified_date | date_to_xmlschema -%}
-        <div class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
+        <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
             <div><p id="blogheaderleft">Written by <a href="/about/">Tim Craig</a></p>&nbsp;<p id="blogheaderright">Last Updated on {{ mdate | date: date_format }}<hr></p>
                   <div class="introheader2">
                       {{ page.title | escape }}<hr>
                   </div>
             </div>
-        </div>
+        </time>
       {%- else -%}
-        <div class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
             <div>Written by <a href="/about/">Tim Craig</a> on {{ page.date | date: date_format }}<hr>
                   <div class="introheader2">
                         {{ page.title | escape }}<hr>
                   </div>
             </div>
-        </div>
+        </time>
       {%- endif -%}
 
     {%- if page.author -%}
