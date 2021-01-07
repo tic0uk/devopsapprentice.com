@@ -14,7 +14,7 @@ Below you can read about my progress in various projects and activities that I'v
 
 <div class="posts">
 {% for post in site.categories.Homelab %}{% if post.sticky %}
-      <listings>
+      <div class="listings">
         {% assign foundImage = 0 %}
         {% assign images = post.content | split:"<img " %}
           {% for image in images %}
@@ -22,7 +22,7 @@ Below you can read about my progress in various projects and activities that I'v
               {% if foundImage == 0 %}
                 {% assign html = image | split:"/>" | first %}
                 <a href="{{ post.url }}">
-                <img class="articleimg" {{ html }} /></a>
+                <img {{ html }} /></a>
                 {% assign foundImage = 1 %}
               {% endif %}
             {% endif %}
@@ -31,10 +31,10 @@ Below you can read about my progress in various projects and activities that I'v
         Published on {{ post.date | date_to_string }}
         <br><br>
         {{ post.content | strip_html | truncatewords: 45 }}
-    </listings>
+
 {% endif %}{% endfor %}
 </div>
-
+</div>
 <div class="posts">
 {% for post in site.categories.Homelab %}{% unless post.sticky %}
       <listings>
@@ -45,7 +45,7 @@ Below you can read about my progress in various projects and activities that I'v
               {% if foundImage == 0 %}
                 {% assign html = image | split:"/>" | first %}
                 <a href="{{ post.url }}">
-                <img class="articleimg" {{ html }} /></a>
+                <img {{ html }} /></a>
                 {% assign foundImage = 1 %}
               {% endif %}
             {% endif %}

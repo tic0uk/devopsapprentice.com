@@ -33,5 +33,5 @@ content.
 All the best,<br>
 Tim
 <br><br>
-<img src="/_pictures/frazeyandme.jpg">
+<img src="/_pictures/frazeyandme.jpg" alt="Tim and his dog Frazey">
 </div>
