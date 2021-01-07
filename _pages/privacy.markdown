@@ -3,6 +3,7 @@ layout: page
 permalink: /privacy/
 published: true
 tags: privacy,policy,google,analytics,cookies,https,cloudflare
+description: Read the privacy policy of devopsapprentice.com
 ---
 
 <p><h1>Privacy Policy</h1></p>

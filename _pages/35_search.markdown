@@ -2,6 +2,7 @@
 layout: default
 permalink: /search/
 title: Search
+description: Search all articles and posts on devopsapprentice.com 
 ---
 
 <div class="introheader">
