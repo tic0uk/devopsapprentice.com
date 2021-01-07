@@ -31,10 +31,10 @@ Below you can read about my progress in various projects and activities that I'v
         Published on {{ post.date | date_to_string }}
         <br><br>
         {{ post.content | strip_html | truncatewords: 45 }}
-
+    </div>
 {% endif %}{% endfor %}
 </div>
-</div>
+
 <div class="posts">
 {% for post in site.categories.Homelab %}{% unless post.sticky %}
       <listings>
