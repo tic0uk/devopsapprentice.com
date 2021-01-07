@@ -16,7 +16,7 @@ things going on in my labs and life.<br><br>
 
 <div class="posts">
 {% for post in site.categories.Blog %}
-  <listings>
+  <div class="listings">
     {% assign foundImage = 0 %}
     {% assign images = post.content | split:"<img " %}
       {% for image in images %}
@@ -24,7 +24,7 @@ things going on in my labs and life.<br><br>
           {% if foundImage == 0 %}
             {% assign html = image | split:"/>" | first %}
             <a href="{{ post.url }}">
-            <img class="articleimg" {{ html }} /></a>
+            <img {{ html }} /></a>
             {% assign foundImage = 1 %}
           {% endif %}
         {% endif %}
@@ -33,7 +33,7 @@ things going on in my labs and life.<br><br>
     Published on {{ post.date | date_to_string }}
     <br><br>
     {{ post.content | strip_html | truncatewords: 49 }}
-</listings>
+</div>
 {% endfor %}
 </div>
 <br><br>
