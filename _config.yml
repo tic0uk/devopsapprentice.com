@@ -19,9 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: DevOps Apprentice
-email: noreply@example.com
+email: info@devopsapprentice.com
 description: >- # this means to ignore newlines until "baseurl:"
-  "An ever-growing site for all apprentices in Linux, System Infrastructure and DevOps"
+  "DevOps Apprentice is an ever-growing site for all apprentices in Linux, System Infrastructure and DevOps"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://devopsapprentice.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: devops_a

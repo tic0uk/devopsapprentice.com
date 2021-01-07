@@ -5,6 +5,8 @@ published: true
 categories: Homelab
 image: /_pictures/threemonitorsetup.jpg
 sticky: true
+description: Read about my current homelab set up and the equipment that I'm currently using for my studies and articles written on devopsapprentice.com.
+tags: [nvidia,i5,homelab,virtualisation,virtualization,kvm,ssd,970,gtx,ram,furna,E2,standing,desk,linux,ubuntu,centos,corsair,vengeance,8600k,overclocked,three,monitor,monitors,PLL,dell,ultrasharp,3007WFP,U2412M,Lenovo,samsung,evo,NVMe,XP-Pen,Deco,Pro,Professional,Graphics,Drawing,Tablet,Logitech,G402,Hyperion,Fury,Sennheiser,HD, 599,Fiio,E10K,Headphone,Amplifier,Game,Max,GMX,Silent,White,PC,case,dual,boot,jekyll,digital,ocean,droplet] 
 ---
 When you're first starting out, a homelab doesn't have to be an expensive rig that takes up lots of space. I'm currently using a single machine for all of my homelab projects and activities. I'm a firm believer that virtualisation bypasses the need for numerous separate machines unless you have a specific need.
 

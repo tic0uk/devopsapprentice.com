@@ -5,7 +5,8 @@ permalink: /mystory/part1/
 published: true
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Ibm_px_xt_color.jpg/512px-Ibm_px_xt_color.jpg
 categories: Blog
-tags: IT,mystory,Linux,Windows,homelab,childhood,kineo,Tim,Craig,engineer,application,developer,coding,sysadmin,systems,administrator,qualifications,certifications,aberystwyth,university,study,music,xp-30,cubase,sx3,ms-dos,prince,persia,sierra,online,on-line,ibm,adventure,games,soundblaster,creative,sord,m5,birmingham,english,degree,basic,gcse,recording,writing,monitors,four,three,senior,client,services,manager,architect,developers,technical,ubuntu,php,apache,mysql,postgresql,postgres,server,dual boot,comptia,security+,network+,aws,azure
+tags: [IT,mystory,Linux,Windows,homelab,childhood,kineo,Tim,Craig,engineer,application,developer,coding,sysadmin,systems,administrator,qualifications,certifications,aberystwyth,university,study,music,xp-30,cubase,sx3,ms-dos,prince,persia,sierra,online,on-line,ibm,adventure,games,soundblaster,creative,sord,m5,birmingham,english,degree,basic,gcse,recording,writing,monitors,four,three,senior,client,services,manager,architect,developers,technical,ubuntu,php,apache,mysql,postgresql,postgres,server,dual boot,comptia,security+,network+,aws,azure]
+description: The first part of how the author of devopsapprentice.com started a career in IT.
 ---
 Since a very young age, I've loved computers and technology. Windows hadn't been released when I used my first computer, and so I learnt to do everything in the command prompt of <a href="https://en.wikipedia.org/wiki/MS-DOS" target="_blank">MS-DOS.</a>
 
