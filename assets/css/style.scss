@@ -88,7 +88,14 @@ article, .comments, .box {
               @include media-query($on-mobile) {
                 color: #D68800;
                 text-decoration: none;
-                margin-left: -9px;
+                margin-left: -5px;
+          }
+          }
+          h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure {
+              @include media-query($on-mobile) {
+                margin-bottom: 15px;
+              padding: 0px 10px 0px 5px;
+
           }
         }
     }
@@ -183,6 +190,16 @@ body {
   margin-top: 80px;
 }
 
+.post-content {
+  @include media-query($on-mobile) {
+    h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure  {
+        margin-bottom: 15px;
+        padding: 0px 9px 0px 9px;
+      }
+    }
+
+}
+
 .site-title {
     padding-left: 24px;
     z-index: 7;
@@ -260,11 +277,18 @@ body {
 #blogheaderleft {
     float: left;
     font-size: 15px;
+    @include media-query($on-mobile) {
+      float: none;
+      }
     }
 
 #blogheaderright {
     float: right;
     font-size: 15px;
+    @include media-query($on-mobile) {
+      float: none;
+      margin-top: -29px;
+      }
     }
 
     hr {
