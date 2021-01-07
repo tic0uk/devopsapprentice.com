@@ -21,6 +21,7 @@ group :jekyll_plugins do
   gem "bundler", "~> 2.2.1"
   gem "jekyll-tagging", "~> 1.1.0"
   gem "rake", "~> 12.0"
+  gem 'jekyll-sitemap'
 end
 gem "kramdown-parser-gfm"
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
