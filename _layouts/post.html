@@ -3,7 +3,7 @@ sitemap: false
 layout: default
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-  <p class="post-meta">
+  <div class="post-meta">
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- if page.modified_date -%}
         {%- assign mdate = page.modified_date | date_to_xmlschema -%}
@@ -32,7 +32,7 @@ layout: default
           {%- if forloop.last == false %}, {% endif -%}
           {% endfor %}
     {%- endif -%}
-  </p>
+  </div>
 
 <div class="post-content e-content" itemprop="articleBody">
       {{ content }}
