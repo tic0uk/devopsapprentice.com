@@ -2,6 +2,7 @@
 layout: default
 title: About
 permalink: /about/
+image: /_pictures/frazeyandmecropped.jpg
 description: Find out more about the author of devopsapprentice.com
 ---
 <div class="introheader">
