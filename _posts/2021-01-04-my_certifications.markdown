@@ -5,7 +5,7 @@ title:  "IT Certifications"
 image: /_pictures/securityplus-badge.png
 published: true
 categories: Blog
-tags: [AWS,amazon,web,services,comptia,cysa+,network+,security+,linux,acclaim,learning,devops,badge,mike,meyers,jason,dion,academy,acloudguru,study,homelab,revising,IT,qualifications,certifications,cloud,practioner,certified,networking,cyber,cybersecurity,security,networking,osi,layer 3,technical,exams,examinations,qualified,ansible,course,sandbox,pearson,vue]
+tags: [AWS,amazon,web,services,comptia,cysa+,network+,security+,linux,acclaim,learning,devops,badge,mike,meyers,jason,dion,academy,acloudguru,study,homelab,revising,IT,qualifications,certifications,cloud,practioner,certified,networking,cyber,cybersecurity,security,networking,osi,layer 3,technical,exams,examinations,qualified,ansible,course,sandbox,pearson,vue,devops,apprentice]
 description: A list of IT certifications that the author of devopsapprentice.com has achieved since 2020 and his reflection on them.
 ---
 I'd worked with Linux for around 6 years before I began studying in my spare time. Up until 2020 most of my learning was done on the job. Actual experience is hands-down the best way to learn, but as I progressed deeper into tech, I wanted to know more and more. As I progressed further, I found that there wasn't enough time at work to study things in-depth.

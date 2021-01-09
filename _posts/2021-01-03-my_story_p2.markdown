@@ -5,7 +5,7 @@ permalink: /mystory/part2/
 image: /_pictures/geograph-1166311-by-John-Lucas.jpg
 published: true
 categories: Blog
-tags: [IT,mystory,Linux,Windows,homelab,childhood,kineo,Tim,Craig,engineer,application,developer,coding,sysadmin,systems,administrator,qualifications,certifications,aberystwyth,university,study,music,xp-30,cubase,sx3,ms-dos,prince,persia,sierra,online,on-line,ibm,adventure,games,soundblaster,creative,sord,m5,birmingham,english,degree,basic,gcse,recording,writing,monitors,four,three,senior,client,services,manager,architect,developers,technical,ubuntu,php,apache,mysql,postgresql,postgres,server,dual boot,comptia,security+,network+,aws,azure]
+tags: [IT,mystory,Linux,Windows,homelab,childhood,kineo,Tim,Craig,engineer,application,developer,coding,sysadmin,systems,administrator,qualifications,certifications,aberystwyth,university,study,music,xp-30,cubase,sx3,ms-dos,prince,persia,sierra,online,on-line,ibm,adventure,games,soundblaster,creative,sord,m5,birmingham,english,degree,basic,gcse,recording,writing,monitors,four,three,senior,client,services,manager,architect,developers,technical,ubuntu,php,apache,mysql,postgresql,postgres,server,dual boot,comptia,security+,network+,aws,azure,devops,apprentice]
 description: The second part of how the author of devopsapprentice.com started a career in IT.
 ---
 At some point during my teenage years, I formed the impression that to pursue further education in IT, would mean that had to learn to code. I wasn't in love with the idea of being a developer at the time based on my previous experience with BASIC, and so after I passed my GCSE in IT, I didn't pursue any further IT qualifications in college or University and moved away from studying IT.
