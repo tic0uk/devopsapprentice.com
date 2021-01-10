@@ -6,7 +6,7 @@ categories: Homelab
 image: /_pictures/threemonitorsetup.jpg
 sticky: true
 description: Read about my current homelab set up and the equipment that I'm currently using for my studies and articles written on devopsapprentice.com.
-tags: [nvidia,i5,homelab,virtualisation,virtualization,kvm,ssd,970,gtx,ram,furna,E2,standing,desk,linux,ubuntu,centos,corsair,vengeance,8600k,overclocked,three,monitor,monitors,PLL,dell,ultrasharp,3007WFP,U2412M,Lenovo,samsung,evo,NVMe,XP-Pen,Deco,Pro,Professional,Graphics,Drawing,Tablet,Logitech,G402,Hyperion,Fury,Sennheiser,HD, 599,Fiio,E10K,Headphone,Amplifier,Game,Max,GMX,Silent,White,PC,case,dual,boot,jekyll,digital,ocean,droplet,devops,apprentice] 
+tags: [nvidia,i5,homelab,virtualisation,virtualization,kvm,ssd,970,gtx,ram,furna,E2,standing,desk,linux,ubuntu,centos,corsair,vengeance,8600k,overclocked,three,monitor,monitors,PLL,dell,ultrasharp,3007WFP,U2412M,Lenovo,samsung,evo,NVMe,XP-Pen,Deco,Pro,Professional,Graphics,Drawing,Tablet,Logitech,G402,Hyperion,Fury,Sennheiser,HD, 599,Fiio,E10K,Headphone,Amplifier,Game,Max,GMX,Silent,White,PC,case,dual,boot,jekyll,digital,ocean,droplet,devops,apprentice]
 ---
 When you're first starting out, a homelab doesn't have to be an expensive rig that takes up lots of space. I'm currently using a single machine for all of my homelab projects and activities. I'm a firm believer that virtualisation bypasses the need for numerous separate machines unless you have a specific need.
 
@@ -16,14 +16,14 @@ At this point, I'll only buy more hardware when I have a task or project that de
 
 One other thing to bear in mind is more and more production environments are moving into the cloud and using virtualisation. Getting experience in running virtual machines at home and understanding their strengths and limitations is a good skill to pick up in a safe environment. Modern computers will happily run at least one virtual machine at a time, and if you're sensible with resourcing then usually they can run a great deal more than that.
 
-Having said all of that, my main rig and accessories have built up over the years and so has began to gather a price tag. It is absolutely possible to get a reasonably specced i5 with 8gb ram desktop for under £200 if you're willing to buy second hand, and I bought my wife's PC with those specs and a 250gb SSD for £105 off Ebay, so it pays to shop around. As time goes on, you can always upgrade parts if you buy a desktop.  
+It is possible to get a reasonably specced i5 with 8Gb ram desktop for under £200 if you're willing to buy second hand. I bought my wife's PC with those specs and a 250Gb SSD for £105 off eBay, so it pays to shop around. As time goes on, you can always upgrade parts if you buy a desktop. Having said all of that, my main rig and accessories have built up over the years and so has begun to gather a price tag.
 
 My main PC currently has the following specification;
 <br><br>
 <a href="/_pictures/threemonitorsetup.jpg" target="_blank">
 <img src="/_pictures/threemonitorsetup.jpg" alt="three monitor home set up" style="margin-top:-2px;" class="leftimg" /></a>
 <a href="https://ark.intel.com/content/www/us/en/ark/products/126685/intel-core-i5-8600k-processor-9m-cache-up-to-4-30-ghz.html" target="_blank">>> Intel i5-8600K overclocked from 3.6 GHz to 4.8 GHz<br></a>
-<a href="https://www.scan.co.uk/products/16gb-(2x8gb)-corsair-ddr4-vengeance-lpx-black-pc4-19200-(2400)-non-ecc-unbuffered-cas-14-16-16-31-xm" target="_blank">>> 24GB Corsair Vengeance LPX DDR4 RAM<br></a>
+<a href="https://www.scan.co.uk/products/16gb-(2x8gb)-corsair-ddr4-vengeance-lpx-black-pc4-19200-(2400)-non-ecc-unbuffered-cas-14-16-16-31-xm" target="_blank">>> 24Gb Corsair Vengeance LPX DDR4 RAM<br></a>
 <a href="https://www.techpowerup.com/gpu-specs/geforce-gtx-970.c2620" target="_blank">>> NVIDIA GeForce GTX 970<br></a>
 <a href="https://www.scan.co.uk/products/game-max-silent-gaming-pc-computer-chassis-2x-usb-30-2x-fan-controllers-sd-card-reader-water-cooling" target="_blank">>> Game Max GMX Silent White PC case<br></a>
 <a href="https://www.amazon.co.uk/Samsung-Inch-SATA-Internal-MZ-76E1T0B/dp/B078DPCY3T" target="blank">>> 1TB Samsung 860 EVO SSD (used for Linux)<br></a>
@@ -32,7 +32,7 @@ My main PC currently has the following specification;
 <a href="https://shop.westerndigital.com/products/internal-drives/wd-black-desktop-sata-hdd#WD2003FZEX" target="_blank">>> WDD 2TB sata HDD (used for Windows)<br></a>
 <br>
 
-I stopped using Windows as my main OS on both my work and home machine and began to live out of Linux. I still dual boot a copy of Windows at home as I still use it for gaming and photo editingwhen I need to be sure a document will come out as planned), it's mostly gathering dust at the moment.
+I stopped using Windows as my main OS on both my work and home machine and began to live out of Linux. I still dual boot a copy of Windows at home as I still use it for gaming and photo editing when I need to be sure a document will come out as planned), it's mostly gathering dust at the moment.
 
 I'm also currently using the following in my office;
 * <a href="https://www.dell.com/downloads/emea/services/uk/en/3007WFP.pdf" target="_blank">1x Dell Ultrasharp 30" 2560 x 1600 at 60 Hz (3007WFP)</a>
