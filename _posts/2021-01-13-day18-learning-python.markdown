@@ -2,10 +2,10 @@
 layout: post
 permalink: /learning-to-code-in-python-day18/
 title:  "Learning to code in Python (Day 18)"
-image: /_pictures/pythonday1.png
+image: /_pictures/blackjack.png
 published: true
 categories: Blog
-tags: [coding,udemy,100,days,of,code,the,complete,python,pro,bootcamp,2021,repl.it,repl,variables,beginner,code,learning,programming,functions,program,new,skills,develop,developer,php,basic,devops,apprentice]
+tags: [coding,udemy,100,days,of,code,the,complete,python,pro,bootcamp,2021,repl.it,repl,variables,beginner,code,learning,programming,functions,program,new,skills,develop,developer,php,basic,devops,apprentice,aws,solutions,architect,coding,pycharm,reeborgs,world]
 description: I'm now on my 18th day of learning Python.
 ---
 <a href="/learning-to-code-in-python-day1/">In my last post</a>, I wrote about how I've begun to learn Python using a Udemy course called 100 Days of Code - The Complete Python Pro Bootcamp for 2021 by Dr Angela Yu. I've just finished day 18, and it feels like a good time to give a progress update.
