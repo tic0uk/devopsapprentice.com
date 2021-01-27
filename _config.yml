@@ -54,6 +54,12 @@ include:
   - about.md
   - index.md
   - favicon.ico
+atom:
+  buildCommand:
+    - bundle
+    - exec
+    - jekyll
+    - build
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
