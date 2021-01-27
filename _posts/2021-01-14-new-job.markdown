@@ -1,0 +1,20 @@
+---
+layout: post
+permalink: /learning-to-code-in-python-day7/
+title:  "Learning to code in Python (Day 7)"
+image: /_pictures/pythonday1.png
+published: false
+categories: Blog
+tags: [coding,udemy,100,days,of,code,the,complete,python,pro,bootcamp,2021,repl.it,repl,variables,beginner,code,learning,programming,functions,program,new,skills,develop,developer,php,basic,devops,apprentice]
+description: I'm now on my 7th day of learning Python.
+---
+After a long talk the other day with my wife, I made the decision that I was going to stop looking for a job and focus on study for 6 months. It was incredibly liberating to think that I could have the time to commit to this for 6 months with no other commitments.;
+
+Of course the way things go, that same evening, I received a very interesting call about a potential job coming up that sounds like it was written for me. It's sounds within my skill set, has tons of potential for growth and is with a company that shares my values. I'm genuinely excited by the sound of the job so I'm preparing for a round of interviews there.
+
+If that doesn't work out, then my fallback plan will be to commit to studying for 6 months, and so it's a win-win for me either way. A great week all in all!  
+
+
+
+
+I'll still complete the study but it's huge difference spending 2 hours vs 12 hours on study a day.

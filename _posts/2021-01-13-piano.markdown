@@ -1,0 +1,35 @@
+---
+layout: post
+permalink: /learning-to-code-in-python-day7/
+title:  "Learning to code in Python (Day 7)"
+image: /_pictures/pythonday1.png
+published: false
+categories: Blog
+tags: [coding,udemy,100,days,of,code,the,complete,python,pro,bootcamp,2021,repl.it,repl,variables,beginner,code,learning,programming,functions,program,new,skills,develop,developer,php,basic,devops,apprentice]
+description: I'm now on my 7th day of learning Python.
+---
+
+My long-term goal is to get into a job working in DevOps. Whilst I've got strong skills in a lot of areas, there's some key parts I need to learn. To help with this, once I've completed the AWS exam, I plan to study Ansible, Terraform, Jenkins amongst some others and work towards becoming an expert in them.
+
+
+At one point, playing music was pretty much my second life. I'd work my normal job throughout the week and most of my spare evenings were spent either playing gigs, going to live shows, or practising music.
+
+I began learning to play the piano when I was around 7. My first teacher taught classical music but after a couple of years, my parents found me another teacher who taught modern jazz. Things were better, but I still hated the restriction of sheet music, and I still didn't like the style of music that I was playing, so I hardly practised.
+
+Early on in the jazz lessons, my teacher spent a lesson showing me how to play some basic chords without sheet music. For the first time, I did actually go home and practice and learnt the lot by memory. That was the end of my career as a famous jazz musician or classical pianist. I completely lost interest in future lessons and instead began to love playing the piano on my own terms.
+
+Secretly, I'd held a lot of guilt over the fact that I didn't practice or enjoy playing the piano. That guilt disappeared once I stopped the lessons as I wasn't tethered to the pace and teaching style of someone else, and I was also freed from sheet music. I began to listen to music that I loved and I would play music on repeat, copying whatever I heard.
+
+By the time I was 16, I had learnt to play Stevie Wonder and Elton John by ear without any sheet music. I could play complex chord progressions, lead piano and anything else that I could get my hands on. With computer technology getting better, I had found ways to isolate the piano from songs and would repeat playing it back on the piano to learn it by heart. I played daily and as I go older, I joined bands and had jam sessions with other musicians. Over the years, I expanded to playing drums, bass, guitar and even singing.
+
+
+ throughout the years
+
+A creative flow is something I've experienced many times in my life.
+
+I recognise the feeling of being in a creative peak As an active musician of many years
+
+It's now been a week since I began <a href="/learning-to-code-in-python-day1/">learning to code Python</a>.
+
+
+I covered some of my back history with code in my last article, and
