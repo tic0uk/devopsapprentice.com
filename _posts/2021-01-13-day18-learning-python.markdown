@@ -32,7 +32,7 @@ Initially, I worked out of the web browser environment at <a href="https://repl.
 
 The feeling of winning didn't last long! What probably wasn't clear to me from the outset was just how many hours every day was going to take. Each day consists of a set of videos that are usually around 7 to 15 minutes long and so each day shows as generally being around 1 hour to 1.5 hours long. All quite reasonable but there are a lot of points in the day where you're asked to pause and then complete the task given. In the early days, I whizzed through the tasks and it barely added an hour to the time I spent per day, however, on later lessons things began to get tough!
 
-<a href="https://github.com/tic0uk/python-100daysofcode/blob/main/day%2011%20-%20blackjack.py" target="_blank">
+<a href="https://github.com/tic0uk/python-100daysofcode/blob/main/day-11-blackjack.py" target="_blank">
 <img src="/_pictures/blackjack.png" class="leftimg" alt="Blackjack code" /></a>
 
 I worked at least 8 hours per day on course days 7 through 11, and one of the days hit the 12 hours mark before I was finished. Most of my time was spent trying to implement a lot of new concepts, and I just needed the time to work through what I'd learnt, read up more on concepts and eventually put together a solution. Not being one to give up, I would plug away for an hour, take a 10-minute break, and then get back on it until I finished which seemed to be a good way of breaking things up.
