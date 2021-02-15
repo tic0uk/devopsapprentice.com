@@ -46,7 +46,7 @@ I'm also currently using the following in my office;
 
 I'll likely upgrade the graphics card at some point in the next year but otherwise, I'm very happy with the set up I've got.
 
-In addition to the above, I've recently purchased a cloud server from <a href="digitalocean.com" target="_blank">Digital Ocean</a> which is 1 x CPU, 2GB RAM and has 45GB SSD. This is being used to host this site, a mail server and I'm running continuous integration onto the server using Git. This website is built using <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>, along with the <a href="https://jekyll-themes.com/leaf/" target="_blank">leaf theme</a>, which I've hacked to bits and made CSS changes all over the place to create what you're seeing now.
+In addition to the above, I've recently purchased a cloud server from <a href="https://digitalocean.com" target="_blank">Digital Ocean</a> which is 1 x CPU, 2GB RAM and has 45GB SSD. This is being used to host this site, a mail server and I'm running continuous integration onto the server using Git. This website is built using <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>, along with the <a href="https://jekyll-themes.com/leaf/" target="_blank">leaf theme</a>, which I've hacked to bits and made CSS changes all over the place to create what you're seeing now.
 
 I'll update this page as I undoubtedly upgrade or purchase more equipment.
 
