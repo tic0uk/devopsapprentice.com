@@ -27,7 +27,7 @@ this list by u/IConrad</a>. I'm also using my homelab to learn Ansible and plan 
 If you want to know more about my back story, you can read more about  <a href="/mystory/part1">how I got started in IT.</a> I've also created a <a href="/blog/">blog</a>, so if you're interested in my day-to-day
 stuff, I'll be talking about various things going on in my labs (and also quite likely writing about how awesome my dog is).
 <br><br>
-I've added my social media links to the bottom of all pages if you want to connect outside of the site. If you have any feedback or questions, feel free to connect with me on the contact links below. I'll do my best to answer all questions and I'm always open to constructive feedback on the site or it's content. I'm also welcome to offers from anyone who wants to help collaborate with the site or its
+I've added my social media links to the bottom of all pages if you want to connect outside of the site, so please feel free to connect with me on the contact links below. I'll do my best to answer all questions and I'm always open to constructive feedback on the site or it's content. I'm also welcome to offers from anyone who wants to help collaborate with the site or its
 content.
 <br><br>
 All the best,<br>
