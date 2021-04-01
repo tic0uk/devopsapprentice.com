@@ -9,7 +9,7 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.7)
-    ffi (1.14.2)
+    ffi (1.15.0)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
     i18n (0.9.5)
@@ -43,12 +43,10 @@ GEM
       jekyll-seo-tag (~> 2.1)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    kramdown (2.3.0)
+    kramdown (2.3.1)
       rexml
-    kramdown-parser-gfm (1.1.0)
-      kramdown (~> 2.0)
     liquid (4.0.3)
-    listen (3.4.1)
+    listen (3.5.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
@@ -81,7 +79,7 @@ DEPENDENCIES
   jekyll-sitemap
   jekyll-tagging (~> 1.1.0)
   jekyll-theme-leaf
-  kramdown-parser-gfm
+  kramdown (>= 2.3.1)
   rake (~> 12.0)
   tzinfo (~> 1.2)
   tzinfo-data
