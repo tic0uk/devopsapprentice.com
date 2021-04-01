@@ -23,8 +23,8 @@ group :jekyll_plugins do
   gem "rake", "~> 12.0"
   gem 'jekyll-sitemap'
 end
-#gem "kramdown-parser-gfm"
-gem "kramdown", ">= 2.3.1"
+gem "kramdown-parser-gfm"
+#gem "kramdown", ">= 2.3.1"
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 platforms :mingw, :x64_mingw, :mswin, :jruby do
