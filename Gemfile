@@ -22,6 +22,7 @@ group :jekyll_plugins do
   gem "jekyll-tagging", "~> 1.1.0"
   gem "rake", "~> 12.0"
   gem 'jekyll-sitemap'
+  gem "rexml", ">= 3.2.5"
 end
 gem "kramdown-parser-gfm"
 #gem "kramdown", ">= 2.3.1"
